@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManishBeesetti
-- 👀 I’m interested in anything intresting 
-- 🌱 I’m currently working on python development 
-- 💞️ I’m looking to collaborate on full stack python projects
+- 👀 I’m interested in anything that's intresting 
+- 🌱 I’m currently working as a data engineer
+- 💞️ I’m open to collaborate 
 - 📫 Email : pavan.manish9@gmail.com
 
 <!---
